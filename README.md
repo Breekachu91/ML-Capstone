@@ -20,4 +20,5 @@ To asses our model's performance, we used the following metrics:
 - Alex Geer
 - David Turineck
 - James Pagett
+- Michael Timmons
 
