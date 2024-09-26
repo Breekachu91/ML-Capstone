@@ -1,4 +1,4 @@
-# ML-Capstone
+# Classification of Pneumonia Diagnosis with Image Analysis 
 
 ## Project Overview
 Use of machine learning to to analyze and classify patient chest X-ray photos on whether they appear normal, or appears infected with pneumonia. 
