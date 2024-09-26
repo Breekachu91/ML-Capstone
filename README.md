@@ -17,7 +17,7 @@ To asses our model's performance, we used the following metrics:
 [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia)
 
 ## Contributors 
-Alex Geer
-David Turineck
-James Pagett
-Michael Timmons
+- Alex Geer
+- David Turineck
+- James Pagett
+
